@@ -68,7 +68,7 @@ test/widget_test.dart         pruebas del listado
 pubspec.yaml                  nombre, SDK y dependencias
 LEEME.md                      guía de la sesión 3
 EVIDENCIAS.md                 procedencia de las capturas
-docs/evidencias/              PNG del emulador
+docs/evidencias/              PNG del emulador y sesion-03-ejecucion.mp4
 android/ ios/ linux/ macos/ web/ windows/   plataformas del proyecto Flutter
 ```
 
@@ -93,3 +93,9 @@ La ventana del emulador está en 1080×1200. Se ve la parte de arriba del listad
 La misma ventana de 1080×1200, después del desplazamiento. «Crear el proyecto TaskFlow» ya no está en pantalla y aparece «Preparar el detalle».
 
 ![Listado después de desplazar, ventana 1080×1200](docs/evidencias/sesion-03-despues-de-desplazar.png)
+
+## Recorrido
+
+[sesion-03-ejecucion.mp4](docs/evidencias/sesion-03-ejecucion.mp4)
+
+Grabación de 16 s en H.264. La ventana útil del emulador es 1080×1200 y el fotograma del archivo es 1080×2400, con bandas negras. El recorrido muestra el listado de cinco tareas, dos con ícono verde, el desplazamiento hasta «Preparar el detalle» y el regreso al inicio. La procedencia está en [EVIDENCIAS.md](EVIDENCIAS.md).
